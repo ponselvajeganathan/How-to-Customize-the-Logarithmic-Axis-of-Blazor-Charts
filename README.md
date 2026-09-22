@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the logarithmic axis in the Syncfusion Blazor Chart component. The application focuses on logarithmic-scale data visualization and shows how chart data can be rendered using a logarithmic axis instead of a standard numeric axis. This approach is useful when visualizing datasets with values that span multiple orders of magnitude, helping improve readability and interpretation of large-scale data variations.
+This sample demonstrates how to customize the logarithmic axis in the Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component. The application focuses on logarithmic-scale data visualization and shows how chart data can be rendered using a logarithmic axis instead of a standard numeric axis. This approach is useful when visualizing datasets with values that span multiple orders of magnitude, helping improve readability and interpretation of large-scale data variations.
 
 The project is implemented as a Blazor application and provides a practical reference for configuring logarithmic-axis behavior within Syncfusion Blazor Charts.
 
